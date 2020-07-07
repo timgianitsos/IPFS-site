@@ -1,4 +1,8 @@
-- Install the latest recommended version of Node.js
+# Instructions
+
+- Install the latest recommended version of Node.js.
+
+	https://nodejs.org
 
 - Navigate to the web app directory
 	```bash
