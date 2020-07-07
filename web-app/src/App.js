@@ -13,6 +13,15 @@ function App() {
         </p>
         <a
           className="App-link"
+          href="http://cs.utexas.edu/~vassi"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn about Vassi, HAHA
+        </a>
+
+        <a
+          className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
