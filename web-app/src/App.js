@@ -21,7 +21,6 @@ class App extends Component {
           <Route path="/login" component={LoginPage}></Route>
         </div>
       </Router>
-      
     );
   }
 }
@@ -68,7 +67,6 @@ export default App;
 //           Learn React
 //         </a>
 //       </header>
-
 //     </div>
 //   );
 // }
