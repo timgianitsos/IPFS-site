@@ -1,9 +1,8 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
-import Login from './Login.js'
 import './App.css';
 
-export default class Home extends Component {
+export default class Main extends Component {
     render() {
         return (
             <div className="App">
@@ -47,7 +46,8 @@ export default class Home extends Component {
     }
 }
 
-// function Home() {
+//code that was here before, has "function" in it which idk what that does
+// function Main() {
 //   return (
 //     <div className="App">
 //       <header className="App-header">
